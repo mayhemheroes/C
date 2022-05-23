@@ -1,0 +1,5 @@
+project: rnshah9/c
+target: c
+
+cmds:
+  - cmd: /repo/build/conversions/hexadecimal_to_octal
