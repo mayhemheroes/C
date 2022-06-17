@@ -1,4 +1,4 @@
-project: rnshah9/c
+project: c
 target: hexadecimal-to-octal
 
 cmds:
