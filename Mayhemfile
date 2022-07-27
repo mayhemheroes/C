@@ -2,4 +2,4 @@ project: c
 target: hexadecimal-to-octal
 
 cmds:
-  - cmd: /repo/build/conversions/hexadecimal_to_octal
+  - cmd: /install/bin/conversions/hexadecimal_to_octal
