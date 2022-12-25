@@ -59,7 +59,8 @@ jobs:
       fail-fast: false
       matrix:
         mayhemfile:
-          - mayhem/Mayhemfile
+          - mayhem/Mayhemfile_get_hash
+          - mayhem/Mayhemfile_hexadecimal_to_octal
 
     steps:
       - uses: actions/checkout@v3

@@ -1,0 +1,6 @@
+project: c
+target: get-hash
+
+cmds:
+  - cmd: /fuzz_get_hash
+    libfuzzer: true
